@@ -1,14 +1,33 @@
 ## Hi, I'm Osama Khan 👋  
-I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://github.com/masai-course)
+I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/masai-course), passionate about building full-stack web applications.
 
-- 🔭 I’ve built:  
+- ✅ I’ve completed the MERN stack and am now **ready for interviews & job opportunities**
+- 🔭 Projects:  
   - 🛒 [Lenskart Clone (Frontend)](https://lenskart-clone-theta.vercel.app/)  
   - 🛠️ [Admin Panel (MERN Stack)](https://admin-panel-liart-xi.vercel.app/)
 
-- 🌱 Currently learning: **Redux, Cloudinary, GitHub Actions**  
+- 🌱 Currently exploring: **Redux, Cloudinary, GitHub Actions**  
 - 💼 Tech Stack: **React | Node.js | Express | MongoDB | Chakra UI | Redux | JavaScript | HTML | CSS**
 
 - 📫 Reach me at: **osama060699@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Chakra_UI-%2338B2AC.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" title="Chakra UI" alt="Chakra UI" height="30"/>
+
+</div>
 
 ---
 
