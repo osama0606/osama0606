@@ -3,8 +3,8 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 
 - ✅ I’ve completed the MERN stack and am now **ready for interviews & job opportunities**
 - 🔭 Projects:  
-  - 🛒 [Lenskart Clone (Frontend)](https://lenskart-clone-theta.vercel.app/)  
-  - 🛠️ [Admin Panel (MERN Stack)](https://admin-panel-liart-xi.vercel.app/)
+  [![Lenskart Clone](https://img.shields.io/badge/Lenskart%20Clone-Live-blue?style=for-the-badge&logo=vercel)](https://lenskart-clone-theta.vercel.app/)
+  [![Admin Panel](https://img.shields.io/badge/Admin%20Panel-Live-blueviolet?style=for-the-badge&logo=vercel)](https://admin-panel-liart-xi.vercel.app/)
 
 - 🌱 Currently exploring: **Redux, Cloudinary, GitHub Actions**  
 - 💼 Tech Stack: **React | Node.js | Express | MongoDB | Chakra UI | Redux | JavaScript | HTML | CSS**
