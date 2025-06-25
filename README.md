@@ -2,8 +2,8 @@
 I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://github.com/masai-course)
 
 - 🔭 I’ve built:  
-  - 🛒 [Lenskart Clone (Frontend)](https://your-lenskart-clone-link.vercel.app)  
-  - 🛠️ [Admin Panel (MERN Stack)](https://your-admin-panel-link.vercel.app)
+  - 🛒 [Lenskart Clone (Frontend)](https://lenskart-clone-theta.vercel.app/)  
+  - 🛠️ [Admin Panel (MERN Stack)](https://admin-panel-liart-xi.vercel.app/)
 
 - 🌱 Currently learning: **Redux, Cloudinary, GitHub Actions**  
 - 💼 Tech Stack: **React | Node.js | Express | MongoDB | Chakra UI | Redux | JavaScript | HTML | CSS**
@@ -13,9 +13,15 @@ I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://githu
 ---
 
 ### 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/osama060699)
+[LinkedIn](https://www.linkedin.com/in/osama-khan-547960276/) • [GitHub](https://github.com/osama060699)
 
 ---
 
-### 📈 GitHub Stats:
-![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama060699&show_icons=true&theme=radical)
+### 📊 GitHub Stats:
+
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osama0606&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osama0606&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osama0606&theme=radical)
+
