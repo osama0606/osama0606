@@ -13,7 +13,7 @@ I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://githu
 ---
 
 ### 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/osama-khan-547960276/) • [GitHub](https://github.com/osama060699)
+[LinkedIn](https://www.linkedin.com/in/osama-khan-547960276/) • [GitHub](https://github.com/osama0606)
 
 ---
 
@@ -23,5 +23,4 @@ I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://githu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osama0606&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osama0606&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=osama0606&theme=radical)
