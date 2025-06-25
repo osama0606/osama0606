@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Osama Khan 👋  
+I’m a Frontend Developer & MERN Stack Learner at [@masai-course](https://github.com/masai-course)
 
-<!--
-**osama0606/osama0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’ve built:  
+  - 🛒 [Lenskart Clone (Frontend)](https://your-lenskart-clone-link.vercel.app)  
+  - 🛠️ [Admin Panel (MERN Stack)](https://your-admin-panel-link.vercel.app)
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: **Redux, Cloudinary, GitHub Actions**  
+- 💼 Tech Stack: **React | Node.js | Express | MongoDB | Chakra UI | Redux | JavaScript | HTML | CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at: **osama060699@gmail.com**
+
+---
+
+### 🌐 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/yourprofile) • [GitHub](https://github.com/osama060699)
+
+---
+
+### 📈 GitHub Stats:
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=osama060699&show_icons=true&theme=radical)
