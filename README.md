@@ -25,9 +25,18 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Chakra_UI-%2338B2AC.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" title="Chakra UI" alt="Chakra UI" height="30"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-%2338B2AC.svg?style=for-the-badge&logo=chakra-ui&logoColor=white" title="Chakra UI" alt="Chakra UI" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
 
 </div>
+
+---
+
+### 📄 Download My Resume:
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/your-resume-link-here)
 
 ---
 
