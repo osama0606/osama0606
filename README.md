@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/osama0606/osama0606/blob/main/banner.png" alt="Osama Khan Banner" />
-</p>
-
 ## Hi, I'm Osama Khan 👋  
 I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/masai-course), passionate about building full-stack web applications.
 
@@ -20,6 +16,7 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 ### 🛠️ Tech Stack
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,21 +30,13 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
+
 </div>
 
 ---
 
 ### 📄 Download My Resume:
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/your-resume-link-here)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Live |
-|--------|-------------|------|
-| 🛒 **Lenskart Clone** | React, Chakra UI | [Live Site](https://lenskart-clone-theta.vercel.app/) |
-| 🛠️ **Admin Panel** | MERN Stack | [Live Site](https://admin-panel-liart-xi.vercel.app/) |
 
 ---
 
@@ -63,11 +52,3 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osama0606&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=osama0606&theme=radical)
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/osama0606/osama0606/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
