@@ -51,4 +51,3 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osama0606&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=osama0606&theme=radical)
