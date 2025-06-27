@@ -36,7 +36,7 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 ---
 
 ### 📄 Download My Resume:
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/your-resume-link-here)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Rn-1suV3jH5-VwwbYsKohivWighfuFKC/view?usp=sharing)
 
 ---
 
