@@ -5,7 +5,7 @@ I’m a MERN Stack Developer, graduate of [@masai-course](https://github.com/mas
 - 🔭 Projects:  
   [![Lenskart Clone](https://img.shields.io/badge/Lenskart%20Clone-Live-blue?style=for-the-badge&logo=vercel)](https://lenskart-clone-theta.vercel.app/)
   [![Admin Panel](https://img.shields.io/badge/Admin%20Panel-Live-blueviolet?style=for-the-badge&logo=vercel)](https://admin-panel-liart-xi.vercel.app/)
-  [![E‑commerce App](https://img.shields.io/badge/E--commerce%20App-Live-green?style=for-the-badge&logo=vercel)](https://e-commerce-project-2s79.onrender.com)
+  [![E‑commerce App](https://img.shields.io/badge/E--commerce%20App-Live-green?style=for-the-badge&logo=vercel)](https://e-commerce-project-liart-rho.vercel.app/)
 
 - 🌱 Currently exploring: **Redux, Cloudinary, GitHub Actions**  
 - 💼 Tech Stack: **React | Node.js | Express | MongoDB | JavaScript | HTML | CSS**
