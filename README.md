@@ -77,6 +77,6 @@ I'm a **MERN Stack Developer** and proud graduate of [@masai-course](https://git
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=osama0606&icon=0&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=osama0606&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
