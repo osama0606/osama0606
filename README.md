@@ -22,9 +22,9 @@ I'm a **MERN Stack Developer** and proud graduate of [@masai-course](https://git
 
 | Project | Description | Live |
 |--------|-------------|------|
-| 🛒 **Lenskart Clone** | E-commerce eyewear app with product filters, cart & checkout | [![Live](https://img.shields.io/badge/Live-blue?style=flat-square&logo=vercel)](https://lenskart-clone-theta.vercel.app/) |
-| 🖥️ **Admin Panel** | Dashboard with full CRUD operations & analytics views | [![Live](https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel)](https://admin-panel-liart-xi.vercel.app/) |
-| 🛍️ **E-commerce App** | Full-stack shopping app with auth, product listing & cart | [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://e-commerce-project-liart-rho.vercel.app/) |
+| 🛒 **Lenskart Clone** | E-commerce eyewear app with product filters, cart & checkout | [![Live](https://img.shields.io/badge/Live-blue?style=flat-square&logo=vercel)](https://lenskart-clone-osamacodes.vercel.app/) |
+| 🖥️ **Admin Panel** | Dashboard with full CRUD operations & analytics views | [![Live](https://img.shields.io/badge/Live-blueviolet?style=flat-square&logo=vercel)](https://admin-panel-osamacodes.vercel.app/) |
+| 🛍️ **E-commerce App** | Full-stack shopping app with auth, product listing & cart | [![Live](https://img.shields.io/badge/Live-green?style=flat-square&logo=vercel)](https://tajsouq.vercel.app/) |
 
 ---
 
